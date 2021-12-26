@@ -11,6 +11,7 @@
  * number of geometry stacks and slices can be adjusted
  * using the + and - keys.
  * KOMEN PERTAMA
+ *KOMEN KEDUA
  */
 
 #ifdef __APPLE__
